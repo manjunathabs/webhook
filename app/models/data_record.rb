@@ -1,0 +1,2 @@
+class DataRecord < ApplicationRecord
+end
